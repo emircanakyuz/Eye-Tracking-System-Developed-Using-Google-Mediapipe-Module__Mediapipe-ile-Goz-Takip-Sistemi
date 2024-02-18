@@ -1,6 +1,6 @@
 # Mediapipe Modülü Kullanılarak Oluşturulmuş Göz Bebeği Takip Sistemi
 
-Merhaba! Bu projemde **mediapipe** modülünü kullanarak **göz bebeği konumunun x ve y koordinatlarını** pygame oyun penceresindeki uçağın koordinatları olarak güncelliyorum ve kontrolünü sağlıyorum. Dilerseniz Mediapipe modülünden biraz daha bahsedelim. Mediapipe, **Google** tarafından geliştirilen ve **görüntü işleme** uygulamaları için kullanılan bir açık kaynaklı bir çerçevedir. Görüntü ve video analizi, el hareketi tanıma, yüz algılama, vücut izleme gibi birçok görev için kullanılabilir. İşlevselliği, önceden **eğitilmiş model ve modüllerin** kullanımını içerir.
+Merhaba! Bu projemde **mediapipe** modülünü kullanarak **göz bebeği konumunun x ve y koordinatlarını,** pygame oyun penceresindeki uçağın koordinatları olarak güncelliyor ve kontrolünü sağlıyorum. Dilerseniz Mediapipe modülünden biraz daha bahsedelim. Mediapipe, **Google** tarafından geliştirilen ve **görüntü işleme** uygulamaları için kullanılan bir açık kaynaklı bir çerçevedir. Görüntü ve video analizi, el hareketi tanıma, yüz algılama, vücut izleme gibi birçok görev için kullanılabilir. İşlevselliği, önceden **eğitilmiş model ve modüllerin** kullanımını içerir.
 Mediapipe modülü içeriğini incelediğimiz zaman, **burun, göz bebeği ve çevresi, dudaklar, yüz çevresi gibi birçok alanın** hazır olarak eğitildiğini ve **landmark** noktalarının tespit edildiğini görebilirsiniz. Örneğini görsel olarak koyuyorum, bu anlamanıza yardımcı olacaktır.
 
 <img src="Mediapipe-Modulu.png" alt="Mediapipe Modülü İçeriği">
